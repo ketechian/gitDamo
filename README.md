@@ -1,0 +1,2 @@
+# gitDamo
+this is readme
